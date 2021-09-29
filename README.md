@@ -1,2 +1,2 @@
 # Clock
-Simple wpf clock... nothing special...
+Simple wpf clock... nothing special :)
